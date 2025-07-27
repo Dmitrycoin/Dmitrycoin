@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Dmitrycoin (Dmitrii)  
-- 🧪 QA Engineer by day — bug hunter, test case ninja, and automation enthusiast  
-- 🤖 I build Telegram bots and small backend tools to automate the boring stuff  
-- 🌍 Deep into crypto since 2018 — DeFi, NFTs, and on-chain logic  
-- 🧪 Active participant in testnets — always exploring new protocols before they hit mainnet  
-- 🛠 Currently sharpening my skills in smart contract testing and dApp integration  
-- 📫 Reach me on Telegram: @Deeecoin
+👋 Hi, I’m Dmitrii (@Dmitrycoin)
+
+💻 QA Engineer by day — focused on bug hunting, writing test cases, and building test automation scripts. I enjoy improving quality, reliability, and dev workflows.
+
+🛠️ On the side, I build Telegram bots and backend tools (mostly in Python/Node.js) to automate boring or repetitive tasks.
+
+🧠 I’ve been deep into crypto since 2018 — exploring DeFi, NFTs, and on-chain mechanics. I’ve actively participated in testnets and love digging into new protocols before they hit mainnet.
+
+⚙️ Currently learning smart contract testing, dApp integration, and getting comfortable with tools like Hardhat, Foundry, and Ethers.js.
+
+🚀 I’m looking to grow as a Web3/backend developer. I’m not an expert yet — but I learn fast, ask questions early, and I ship.
+
+📬 Feel free to reach out on Telegram: @Deeecoin
 
 
 # 💻 Tech Stack:
